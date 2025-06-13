@@ -1,8 +1,9 @@
 module Juliafmt
 
+include("Functions.jl")
 include("Test.jl")
 include("Add.jl")
 
-export some
+export some, Type
 
 end
