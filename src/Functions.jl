@@ -1,6 +1,6 @@
 struct Type{TF}
-    x :: TF
-    y :: TF
+    x::TF
+    y::TF
 end
 
 function some(t)
