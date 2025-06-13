@@ -3,11 +3,7 @@ uuid = "5327a835-ab8c-415d-915c-7c28c77b870b"
 authors = ["yanbofang2 <yf37@rice.edu> and contributors"]
 version = "1.0.0-DEV"
 
-[deps]
-JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
-
 [compat]
-JuliaFormatter = "2.1.2"
 julia = "1.7"
 
 [extras]
