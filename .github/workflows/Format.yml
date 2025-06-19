@@ -1,9 +1,9 @@
 name: Format suggestions
 on:
-  # push:
-  #     branches:
-  #       - main
-  #     tags: ['*']
+  push:
+      branches:
+        - main
+      tags: ['*']
   pull_request:
     # paths:
     #   - 'src/**'
