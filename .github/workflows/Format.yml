@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 1. Checkout the repo with write permissions
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           persist-credentials: true
